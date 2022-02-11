@@ -1,0 +1,382 @@
+/* COLOR SCHEME #A2D2FF #FEF9EF #FF865E #FEE440*/
+/* ----------- TAG SELECTORS -------- */
+a {
+  color: #11999E;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #FEE440;
+}
+
+body {
+  background-color: white;
+  font-family: "Roboto", sans-serif;
+  margin: 0;
+  text-align: center;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 10px;
+  border-color: #EAF6F6;
+  width: 5%;
+}
+
+h1 {
+  color: #FF865E;
+  font-family: "Caveat", cursive;
+  font-size: 6rem;
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  color: #FEE440;
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+h3 {
+  color: #a1b6cc;
+  font-family: "Roboto", sans-serif;
+}
+
+p {
+  font-size: 1.2em;
+  line-height: 1.5;
+}
+
+/* ----------- CLASS SELECTORS -------- */
+.banana {
+  float: left;
+  margin: 10px 30px 20px 0;
+  width: 20%;
+}
+
+.bottom-container {
+  background-color: #a1b6cc;
+  height: 90px;
+  line-height: 1.5em;
+  margin-top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 20%;
+}
+
+.btn {
+  border-radius: 23px;
+  font-family: "Roboto", sans-serif;
+  color: white;
+  font-size: 1.2em;
+  background: #FF865E;
+  padding: 15px 20px 15px 20px;
+  top: 30px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #FEE440;
+  color: #11999E;
+  text-decoration: none;
+}
+
+.contact-me-smol {
+  margin: 100px auto 100px auto;
+  width: 60%;
+}
+
+.credit {
+  margin-top: 10px;
+  font-size: 0.9em;
+}
+
+.file {
+  float: left;
+  margin-right: 40px;
+  margin-top: 10px;
+  width: 18%;
+}
+
+.info {
+  display: inline-block;
+  margin: 80px auto 100px auto;
+  text-align: left;
+  width: 50%;
+}
+
+.info-row {
+  margin-bottom: 40px;
+}
+
+.info-row-2 {
+  margin-bottom: 40px;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.menu {
+  background-color: #a1b6cc;
+  height: 55px;
+  margin: 0;
+  position: fixed;
+  text-align: left;
+  width: 100vw;
+  z-index: 1;
+}
+
+.menu-title {
+  color: white;
+  display: inline-block;
+  font-size: 2em;
+  margin: 7px 30px 0 25px;
+}
+
+.m {
+  text-decoration: underline;
+}
+
+.mountain {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  width: 650px;
+  margin-left: -325px;
+}
+
+.notbold {
+  text-decoration: none;
+}
+
+.poga {
+  color: white;
+  font-weight: bold;
+  letter-spacing: 1px;
+  margin-left: 40px;
+ text-decoration: none;
+}
+
+.poga:hover {
+  color: #FEE440;
+}
+
+.profile {
+  box-sizing: border-box;
+  width: 55%;
+  margin: 0 auto 100px auto;
+}
+
+.question {
+  color: #FEE440;
+  padding-top: 80px;
+  padding-bottom: 30px;
+  font-size: 4em;
+  width: 70%;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 20%;
+  top: 90px;
+}
+
+.top-container {
+  background-color: #FEF9EF;
+  padding-top: 90px;
+  box-sizing: border-box;
+  height: 100vh;
+}
+
+.village {
+  float: left;
+  margin-right: 30px;
+  margin-top: 10px;
+  width: 20%;
+}
+
+.white {
+margin-left: 10px;
+margin-right: 10px;
+font-weight: bold;
+}
+
+/* ----------- CLASS SELECTORS TURISMS -------- */
+.garsas {
+  display: inline-block;
+  margin-right: 40px;
+}
+
+.question2 {
+  color: #FEE440;
+  margin-top: 0;
+  padding-top: 90px;
+  padding-bottom: 0;
+  font-size: 4em;
+  width: 70%;
+}
+
+.pieredzes {
+  display: inline-block;
+}
+
+.skati {
+  display: inline-block;
+  margin-right: 40px;
+}
+
+.turfoto {
+  width: 280px;
+  border-radius: 23px;
+}
+
+.turhead {
+  font-family: "Caveat", cursive;
+  font-size: 1.7em;
+  color: #11999E;
+}
+
+.tutu {
+  padding-top: 50px;
+}
+
+/* ----------- CLASS SELECTORS IMIGRACIJA -------- */
+
+ul {
+  padding-left: 60px;
+  padding-right: 40px;
+line-height: 1.5;
+}
+
+.btn2 {
+  background: #11999E;
+border-radius: 23px;
+  color: white;
+  display: inline-block;
+  font-family: "Roboto", sans-serif;
+  font-size: 1.2em;
+  padding: 15px 20px 15px 20px;
+  position: relative;
+  margin-left: 35%;
+  margin-top: 20px;
+  margin-bottom: 30px;
+    text-decoration: none;
+}
+
+.btn2:hover {
+  background: #FF865E;
+  color: white;
+  text-decoration: none;
+}
+
+.btn3 {
+  border-radius: 23px;
+  font-family: "Roboto", sans-serif;
+  color: white;
+  font-size: 1.2em;
+  background: #11999E;
+  display: inline-block;
+  padding: 15px 20px 15px 20px;
+  margin-left: 35%;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  text-decoration: none;
+}
+
+.btn3:hover {
+  background: #FF865E;
+  color: white;
+  text-decoration: none;
+}
+
+.formalitates {
+  color: black;
+  position: relative;
+}
+
+.question3 {
+  color: #11999E;
+  font-family: "Roboto", sans-serif;
+  font-size: 2em;
+  margin-top: 0;
+  margin-left: 0;
+  padding-left: 0;
+  padding-top: 110px;
+  padding-bottom: 0;
+}
+
+.imigr {
+  text-align: left;
+  margin: 0 auto 0 auto;
+  width: 80%;
+}
+
+.imgrhead {
+  color: #11999E;
+  font-size: 1.5em;
+  padding-top: 10px;
+  padding-left: 40px;
+}
+
+.imipage {
+  background-color: white;
+}
+
+.row1 {
+position: relative;
+}
+
+.row2 {
+  position: relative;
+  padding-top: 100px;
+}
+
+.vizas {
+  background-color: #FEE440;
+  border-radius: 23px;
+  display: inline-block;
+  position: absolute;
+  right: 0;
+  text-align: left;
+  width: 42%;
+}
+
+.atlauja {
+  background-color: #FEE440;
+  border-radius: 23px;
+  height: 100%;
+  display: inline-block;
+  position: absolute;
+  right: 0;
+  text-align: left;
+  width: 42%;
+}
+
+.passport {
+  float: left;
+  width: 100px;
+  padding-top: 100px;
+  padding-right: 20px;
+}
+
+.pilsoniba {
+  background-color: #FEE440;
+  border-radius: 23px;
+  display: inline-block;
+  position: relative;
+  text-align: left;
+  width: 42%;
+}
+
+.citi {
+  background-color: #FEE440;
+  border-radius: 23px;
+  display: inline-block;
+ position: relative;
+  text-align: left;
+  width: 42%;
+}
